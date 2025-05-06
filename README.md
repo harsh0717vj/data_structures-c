@@ -14,9 +14,6 @@ This project contains well-organized and thoroughly commented implementations of
 
 ---
 
-## 📁 Repository Structure
-
-
 
 ## 📁 Repository Structure
 
@@ -53,7 +50,7 @@ Each folder contains:
 - Sorting (Bubble, Selection, Insertion, Merge, Quick)
 
 ---
-###Connections:
+**###Connections:**
 GitHub: HarshVardhan
 
 LinkedIn: https://www.linkedin.com/in/harsh-vardhan
