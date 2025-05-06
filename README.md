@@ -1,9 +1,4 @@
-# DSA in C Programming
 
-Welcome to the **DSA in C Programming** repository!  
-This project contains well-organized and thoroughly commented implementations of **Data Structures and Algorithms (DSA)** using the **C programming language**. It's ideal for students, programmers preparing for technical interviews, or anyone who wants to strengthen their understanding of core computer science concepts.
-
----
 # DSA in C Programming
 
 ![Top Language](https://img.shields.io/github/languages/top/HarshVardhan/DSA-in-C)
