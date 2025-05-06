@@ -1,65 +1,31 @@
+# 💻 Hello, I am HARSH VARDHAN!  
+## Welcome to My GitHub Repository on DSA in C Programming 🚀  
 
-# DSA in C Programming
+![Welcome Banner](https://via.placeholder.com/800x200?text=Hello+I+am+HARSH+VARDHAN+Welcome+to+my+GitHub+repository+on+DSA+in+C+Programming)
 
-![Top Language](https://img.shields.io/github/languages/top/HarshVardhan/DSA-in-C)
-![GitHub Stars](https://img.shields.io/github/stars/HarshVardhan/DSA-in-C?style=social)
+### 📌 About This Repository  
+This repository contains **Data Structures and Algorithms (DSA)** implemented in **C programming**. It is designed to help learners understand core programming concepts and efficient problem-solving techniques.
 
-Welcome to the **DSA in C Programming** repository!  
-This project contains well-organized and thoroughly commented implementations of **Data Structures and Algorithms (DSA)** using the **C programming language**. It's ideal for students, programmers preparing for technical interviews, or anyone who wants to strengthen their understanding of core computer science concepts.
+### 🚀 Features  
+- **Linked Lists** (Single, Circular, Doubly)  
+- **Stack Implementation** (Push, Pop, Peek)  
+- **Queue Operations**  
+- **Sorting & Searching Algorithms**  
+- **Infix to Postfix Conversion**  
+- **Recursion & Dynamic Memory Management**  
 
----
-
-
-## 📁 Repository Structure
-
-
-Each folder contains:
-- `.c` files for implementations
-- Sample input/output in comments
-- Clear function and logic explanations
-
----
-
-## ✨ Features
-
-- ✅ Simple and clean C code
-- ✅ Each algorithm with sample test cases
-- ✅ Modular and reusable functions
-- ✅ Beginner-friendly code comments
-- ✅ Adheres to standard C programming practices
-
----
-
-## 🧠 Topics Covered
-
-### Data Structures:
-- Arrays
-- Linked Lists (Singly, Doubly, Circular)
-- Stacks (Array and Linked List-based)
-- Queues (Normal, Circular, Deque)
-- Trees (Binary, BST, Traversals)
-- Graphs (Adjacency Matrix/List, BFS, DFS)
-
-### Algorithms:
-- Searching (Linear, Binary)
-- Sorting (Bubble, Selection, Insertion, Merge, Quick)
-
----
-**###Connections:**
-GitHub: HarshVardhan
-
-LinkedIn: www.linkedin.com/in/harsh-vardhan-b6a912325
-
-## 🔧 Requirements
-
-- A C compiler (e.g., GCC)
-- A code editor or IDE (e.g., VS Code, Code::Blocks)
-
-### To Compile:
-```bash
-gcc filename.c -o output
+### 📚 How to Use  
+1. Clone the repository using:  
+   ```bash
+   git clone https://github.com/your-username/dsa-in-c.git
+   cd dsa-in-c
+   gcc filename.c -o output
 ./output
+🔗 Connect With Me
+Linkedin: www.linkedin.com/in/harsh-vardhan-b6a912325
 
-git clone https://github.com/HarshVardhan/DSA-in-C.git
+📜 License
+This project is open-source and available under the MIT License.
 
-cd DSA-in-C
+Happy Coding! 🚀
+
