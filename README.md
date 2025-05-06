@@ -53,7 +53,7 @@ Each folder contains:
 **###Connections:**
 GitHub: HarshVardhan
 
-LinkedIn: https://www.linkedin.com/in/harsh-vardhan
+LinkedIn: www.linkedin.com/in/harsh-vardhan-b6a912325
 
 ## 🔧 Requirements
 
