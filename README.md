@@ -14,13 +14,6 @@ This repository contains **Data Structures and Algorithms (DSA)** implemented in
 - **Infix to Postfix Conversion**  
 - **Recursion & Dynamic Memory Management**  
 
-### 📚 How to Use  
-1. Clone the repository using:  
-   ```bash
-   git clone https://github.com/your-username/dsa-in-c.git
-   cd dsa-in-c
-   gcc filename.c -o output
-./output
 🔗 Connect With Me
 Linkedin: www.linkedin.com/in/harsh-vardhan-b6a912325
 
