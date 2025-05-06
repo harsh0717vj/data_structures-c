@@ -12,9 +12,9 @@ This repository contains **Data Structures and Algorithms (DSA)** implemented in
 - **Queue Operations**  
 - **Sorting & Searching Algorithms**  
 - **Infix to Postfix Conversion**  
-- **Recursion & Dynamic Memory Management**  
+  
 
-🔗 Connect With Me
+**🔗 Connect With Me**
 Linkedin: www.linkedin.com/in/harsh-vardhan-b6a912325
 
 📜 License
